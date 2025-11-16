@@ -1,0 +1,7 @@
+{
+  "name": "Baby Shower Photo Booth",
+  "description": "A fun photo booth for Manali & Raj's baby shower. Take themed photos with custom frames and AI styles, and share them to a shared album.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
